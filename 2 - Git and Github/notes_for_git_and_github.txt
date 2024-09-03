@@ -1,0 +1,23 @@
+- Configuring Git
+git config --global user.name "username"
+git config --global user.email "email"
+git config user.name
+git config user.email
+
+- Initiallise a Repository
+git Initiallise
+
+- Check the status of all of our files and foldersgit status
+git status
+
+- GIT 3 STAGE
+
+- Add all of the files that have been modified tot he staging area
+git add .
+
+- Create a commit
+git commit -m "This is the description."
+
+- Check the history
+git log 
+git log --oneline
